@@ -9,5 +9,6 @@ To play the game, open the file "Joe vs BIG Paladins.exe" in the "JoeVsBigPaladi
 ## Gameplay Video
 
 Below is a video of the gameplay.
+
 [![Link to YouTube Video](http://img.youtube.com/vi/qbBsAnbL_pE/0.jpg)](http://www.youtube.com/watch?v=qbBsAnbL_pE "Warp Jumper Gameplay Video")
 
